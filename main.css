@@ -1,0 +1,30 @@
+* {color: white;
+background-color: rgb(0, 0, 0);}
+
+h1 {font-size: 70px;
+font-family: 'Montserrat Alternates', sans-serif;}
+
+p {margin: 0px 60px 0px;}
+
+
+* {color: white;
+    background-color: rgb(0, 0, 0);}
+    
+    h2 {font-size: 18px;
+    font-family: 'Anton', sans-serif;;}
+    
+    p {margin: 0px 60px 0px;} 
+ 
+    /* * {color: white;
+        background-color: rgb(0, 0, 0);}
+        
+        h3 {font-size: 18px;
+        font-family: 'Anton', sans-serif;;}
+        
+        p {margin: 0px 60px 0px;}  */
+    /* body {
+        background-image: url('Arsenal.jpg');
+    
+        }
+ 
+        body { background-color: rgba (255, 99, 71, 0.8); } */
